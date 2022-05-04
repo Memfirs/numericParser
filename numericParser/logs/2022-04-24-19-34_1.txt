@@ -1,0 +1,179 @@
+2022-04-20 09:38:00.009 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 09:38:00.025 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-20 09:38:23.637 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 09:38:23.637 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-20 09:38:23.637 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-20 09:38:23.637 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-20 09:38:23.637 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 09:38:23.653 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-20 10:32:53.469 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 10:32:53.484 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-20 10:32:53.484 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-20 10:32:53.484 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-20 10:32:53.500 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-20 10:32:53.500 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-20 10:32:53.500 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-20 10:32:53.500 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-20 10:32:53.500 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-20 10:33:54.519 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-20 10:33:54.519 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-20 10:33:54.534 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 18:48:01.575 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-24 18:48:01.590 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-24 18:48:01.606 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:48:01.606 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-24 18:48:01.606 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:48:01.606 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-24 18:48:28.655 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:48:28.655 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 18:48:28.655 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:48:28.655 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-24 18:48:28.671 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:48:28.671 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-24 18:55:11.958 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 18:55:11.958 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 18:55:11.974 [main] ERROR by.ponomarenko.task.parser.DefaultNumericParser - No correct lines.
+2022-04-24 19:28:29.656 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 19:28:29.662 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 19:28:29.664 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 19:28:29.664 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 19:28:29.664 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 19:28:29.665 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 19:28:29.665 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 19:28:29.665 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 19:28:29.665 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 19:28:29.666 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-24 19:28:29.666 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-24 19:28:29.666 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-24 19:28:29.667 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-24 19:28:29.667 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 19:28:29.668 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-24 19:28:29.670 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 19:28:29.671 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-24 19:28:29.673 [main] INFO  by.ponomarenko.task.reader.NumericReader - Data was read successfully.
+2022-04-24 19:28:29.678 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-24 19:30:23.833 [main] INFO  by.ponomarenko.task.reader.NumericReader - File resources\data\textData.txt was read successfully.
+2022-04-24 19:30:23.839 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 19:30:23.848 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 19:30:23.848 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 19:30:23.849 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 19:30:23.857 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 19:30:23.857 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 19:30:23.858 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 19:30:23.863 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 19:30:23.864 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-24 19:30:23.864 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-24 19:30:23.865 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-24 19:30:23.867 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-24 19:30:23.868 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 19:30:23.869 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-24 19:30:23.871 [main] INFO  by.ponomarenko.task.reader.NumericReader - File resources\data\numberExp.txt was read successfully.
+2022-04-24 19:30:23.873 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-24 19:30:23.879 [main] INFO  by.ponomarenko.task.reader.NumericReader - File resources\data\simpleNumber.txt was read successfully.
+2022-04-24 19:30:23.882 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-24 19:31:00.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 19:31:00.111 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 19:31:00.113 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 19:31:00.114 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 19:31:00.114 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 19:31:00.115 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 19:31:00.116 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 19:31:00.117 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 19:31:00.117 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 19:31:00.117 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-24 19:31:00.118 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-24 19:31:00.118 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-24 19:31:00.118 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-24 19:31:00.118 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 19:31:00.119 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-24 19:31:00.120 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\numberExp.txt" was read successfully.
+2022-04-24 19:31:00.121 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\numberExp.txt was read successfully.
+2022-04-24 19:31:00.121 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\simpleNumber.txt" was read successfully.
+2022-04-24 19:31:00.122 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - resources\data\simpleNumber.txt was read successfully.
+2022-04-24 19:32:02.103 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 19:32:02.109 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 19:32:02.110 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 19:32:02.110 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 19:32:02.111 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 19:32:02.111 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 19:32:02.111 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 19:32:02.112 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 19:32:02.112 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 19:32:02.112 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-24 19:32:02.112 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-24 19:32:02.113 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-24 19:32:02.113 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-24 19:32:02.113 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 19:32:02.113 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-24 19:32:02.114 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\numberExp.txt" was read successfully.
+2022-04-24 19:32:02.117 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\simpleNumber.txt" was read successfully.
+2022-04-24 19:32:20.446 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 19:32:20.454 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 19:32:20.455 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 19:32:20.456 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 19:32:20.456 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 19:32:20.457 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 19:32:20.457 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 19:32:20.458 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 19:32:20.458 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 19:32:20.459 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.
+2022-04-24 19:32:20.459 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   5" is correct.
+2022-04-24 19:32:20.459 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8 8" is incorrect.
+2022-04-24 19:32:20.460 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8   10" is incorrect.
+2022-04-24 19:32:20.460 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "" is incorrect.
+2022-04-24 19:32:20.460 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "8.11" is incorrect.
+2022-04-24 19:32:20.462 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\numberExp.txt" was read successfully.
+2022-04-24 19:32:20.464 [main] ERROR by.ponomarenko.task.reader.NumericReader - File resources\data\simpleNumber.txt is empty.
+2022-04-24 19:34:13.320 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 19:34:13.330 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "5616516" is correct.
+2022-04-24 19:34:13.332 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "1" is correct.
+2022-04-24 19:34:13.333 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "0" is correct.
+2022-04-24 19:34:13.333 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "-4" is correct.
+2022-04-24 19:34:13.334 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "--9" is incorrect.
+2022-04-24 19:34:13.335 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "Abd" is incorrect.
+2022-04-24 19:34:13.335 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "\n" is incorrect.
+2022-04-24 19:34:13.336 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 19:34:13.336 [main] INFO  by.ponomarenko.task.parser.DefaultNumericParser - Line "   6" is correct.

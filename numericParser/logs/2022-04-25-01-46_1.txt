@@ -1,0 +1,180 @@
+2022-04-24 23:21:55.083 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-24 23:21:55.094 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-24 23:21:55.094 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-24 23:21:55.095 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-24 23:21:55.096 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-24 23:21:55.097 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-24 23:21:55.100 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 23:21:55.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-24 23:21:55.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-24 23:21:55.102 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-24 23:21:55.104 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-24 23:21:55.104 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-24 23:21:55.105 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-24 23:21:55.107 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerCustomData.txt" was read successfully.
+2022-04-24 23:22:48.607 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 23:22:48.617 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-24 23:22:48.618 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-24 23:22:48.618 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-24 23:22:48.619 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-24 23:22:48.620 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-24 23:22:48.621 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-24 23:22:48.623 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-24 23:22:48.625 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 23:22:48.626 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-24 23:22:48.627 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-24 23:22:48.628 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-24 23:22:48.629 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-24 23:22:48.629 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-24 23:22:48.630 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-24 23:22:48.634 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerCustomData.txt" was read successfully.
+2022-04-24 23:23:06.681 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 23:23:06.687 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-24 23:23:06.687 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-24 23:23:06.687 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-24 23:23:06.687 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-24 23:23:06.688 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-24 23:23:06.688 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-24 23:23:06.689 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-24 23:23:06.689 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 23:23:06.689 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-24 23:23:06.689 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-24 23:23:06.690 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-24 23:23:06.690 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-24 23:23:06.690 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-24 23:23:06.690 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-24 23:23:06.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerCustomData.txt" was read successfully.
+2022-04-24 23:23:53.917 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 23:23:53.925 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-24 23:23:53.925 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-24 23:23:53.925 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-24 23:23:53.926 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-24 23:23:53.926 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-24 23:23:53.927 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-24 23:23:53.927 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-24 23:23:53.927 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 23:23:53.927 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-24 23:23:53.928 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-24 23:23:53.928 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-24 23:23:53.928 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-24 23:23:53.928 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-24 23:23:53.929 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-24 23:23:53.930 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerCustomData.txt" was read successfully.
+2022-04-24 23:24:11.480 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 23:24:11.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-24 23:24:11.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-24 23:24:11.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-24 23:24:11.487 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-24 23:24:11.487 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-24 23:24:11.488 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-24 23:24:11.488 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-24 23:24:11.488 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 23:24:11.489 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-24 23:24:11.489 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-24 23:24:11.489 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-24 23:24:11.489 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-24 23:24:11.490 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-24 23:24:11.490 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-24 23:24:11.492 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerCustomData.txt" was read successfully.
+2022-04-24 23:25:25.664 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-24 23:25:25.674 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-24 23:25:25.675 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-24 23:25:25.675 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-24 23:25:25.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-24 23:25:25.677 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-24 23:25:25.678 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-24 23:25:25.678 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-24 23:25:25.679 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-24 23:25:25.682 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-24 23:25:25.682 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-24 23:25:25.682 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-24 23:25:25.684 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-24 23:25:25.684 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-24 23:25:25.685 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-24 23:25:25.687 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerCustomData.txt" was read successfully.
+2022-04-25 01:23:29.210 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 01:23:29.218 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 01:23:29.218 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 01:23:29.219 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 01:23:29.219 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 01:23:29.220 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 01:23:29.220 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 01:23:29.220 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 01:23:29.221 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 01:23:29.221 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 01:23:29.221 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 01:23:29.221 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 01:23:29.222 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 01:23:29.222 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 01:23:29.223 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 01:23:29.224 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 01:25:52.601 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 01:25:52.611 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 01:25:52.612 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 01:25:52.612 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 01:25:52.613 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 01:25:52.614 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 01:25:52.614 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 01:25:52.614 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 01:25:52.615 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 01:25:52.615 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 01:25:52.615 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 01:25:52.615 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 01:25:52.616 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 01:25:52.616 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 01:25:52.616 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 01:25:52.617 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 01:26:15.167 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 01:26:15.173 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 01:26:15.173 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 01:26:15.174 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 01:26:15.174 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 01:26:15.174 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 01:26:15.175 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 01:26:15.175 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 01:26:15.175 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 01:26:15.176 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 01:26:15.176 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 01:26:15.176 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 01:26:15.177 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 01:26:15.177 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 01:26:15.177 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 01:26:15.178 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 01:29:31.264 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 01:29:31.273 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 01:29:31.274 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 01:29:31.274 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 01:29:31.274 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 01:29:31.275 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 01:29:31.276 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 01:29:31.276 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 01:29:31.277 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 01:29:31.277 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 01:29:31.277 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 01:29:31.278 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 01:29:31.280 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 01:29:31.280 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 01:29:31.281 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 01:29:31.283 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 01:35:18.472 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 01:35:18.483 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 01:35:18.484 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 01:35:18.484 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 01:35:18.485 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 01:35:18.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 01:35:18.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 01:35:18.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 01:35:18.486 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 01:35:18.487 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 01:35:18.487 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 01:35:18.487 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 01:35:18.489 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 01:35:18.489 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 01:35:18.490 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 01:35:18.492 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 01:46:12.084 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 01:46:12.090 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 01:46:12.091 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 01:46:12.091 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 01:46:12.091 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 01:46:12.091 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.

@@ -1,0 +1,120 @@
+2022-04-25 09:43:27.858 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = девятьсот двенадцать квадриллионов восемьсот тринадцать триллионов семьсот четырнадцать миллиардов шестьсот два миллиона пятьсот три тысячи шестьсот четыре
+2022-04-25 09:43:27.908 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шесть
+2022-04-25 09:43:27.910 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "400" is correct.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 09:44:21.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "912813714602503604" is correct.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 09:44:21.230 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 09:44:21.386 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = четыреста
+2022-04-25 09:44:21.433 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять миллионов шестьсот шестнадцать тысяч пятьсот шестнадцать
+2022-04-25 09:44:21.448 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = один
+2022-04-25 09:44:21.464 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = ноль
+2022-04-25 09:44:21.464 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = минус четыре
+2022-04-25 09:44:21.464 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шестьсот шестнадцать тысяч восемьсот сорок девять вигинтиллионов восемьсот девяносто четыре новемдециллиона девятьсот восемьдесят девять октодециллионов сто девяносто один септендециллион девятьсот восемьдесят один сексдециллион девятьсот шестьдесят один квиндециллион девятьсот восемьдесят девять кваттордециллионов восемьсот девяносто восемь тредециллионов девятьсот пятнадцать дуодециллионов сто девяносто один ундециллион девятьсот девятнадцать дециллионов девятьсот девяносто семь нониллионов двести девятнадцать октиллионов семьсот пятьдесят два септиллиона сто девяносто пять секстиллионов семьсот двадцать четыре квинтиллиона девятьсот пятнадцать квадриллионов семьсот двадцать четыре триллиона девятьсот пятнадцать миллиардов двести семьдесят девять миллионов четыреста пятьдесят одна тысяча девятьсот девяносто девять
+2022-04-25 09:44:21.464 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = девятьсот двенадцать квадриллионов восемьсот тринадцать триллионов семьсот четырнадцать миллиардов шестьсот два миллиона пятьсот три тысячи шестьсот четыре
+2022-04-25 09:44:21.480 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шесть
+2022-04-25 09:44:21.480 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять
+2022-04-25 09:48:46.976 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 09:48:46.976 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "400" is correct.
+2022-04-25 09:48:46.976 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 09:48:46.976 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 09:48:46.976 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "912813714602503604" is correct.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 09:48:46.992 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 09:48:47.039 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 09:48:47.039 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 09:48:47.054 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 09:48:47.054 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "400" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "912813714602503604" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 09:48:47.086 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 09:48:47.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 09:48:47.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 09:48:47.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 09:48:47.101 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 09:49:23.645 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 09:49:23.661 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "400" is correct.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 09:49:23.676 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "912813714602503604" is correct.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 09:49:23.692 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 09:49:23.801 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = четыреста
+2022-04-25 09:49:23.817 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять миллионов шестьсот шестнадцать тысяч пятьсот шестнадцать
+2022-04-25 09:49:23.817 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = один
+2022-04-25 09:49:23.817 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = ноль
+2022-04-25 09:49:23.832 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = минус четыре
+2022-04-25 09:49:23.864 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шестьсот шестнадцать тысяч восемьсот сорок девять вигинтиллионов восемьсот девяносто четыре новемдециллиона девятьсот восемьдесят девять октодециллионов сто девяносто один септендециллион девятьсот восемьдесят один сексдециллион девятьсот шестьдесят один квиндециллион девятьсот восемьдесят девять кваттордециллионов восемьсот девяносто восемь тредециллионов девятьсот пятнадцать дуодециллионов сто девяносто один ундециллион девятьсот девятнадцать дециллионов девятьсот девяносто семь нониллионов двести девятнадцать октиллионов семьсот пятьдесят два септиллиона сто девяносто пять секстиллионов семьсот двадцать четыре квинтиллиона девятьсот пятнадцать квадриллионов семьсот двадцать четыре триллиона девятьсот пятнадцать миллиардов двести семьдесят девять миллионов четыреста пятьдесят одна тысяча девятьсот девяносто девять
+2022-04-25 09:49:23.864 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = девятьсот двенадцать квадриллионов восемьсот тринадцать триллионов семьсот четырнадцать миллиардов шестьсот два миллиона пятьсот три тысячи шестьсот четыре
+2022-04-25 09:49:23.864 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шесть
+2022-04-25 09:49:23.879 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять
+2022-04-25 09:55:25.295 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\textData.txt" was read successfully.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "400" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "5616516" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "1" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "0" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "-4" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "--9" is incorrect.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "Abd" is incorrect.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "\n" is incorrect.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9999999535616849894989191981961989898915191919997219752195724915724915279451999" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "912813714602503604" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   6" is correct.
+2022-04-25 09:55:25.311 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "   5" is correct.
+2022-04-25 09:55:25.326 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8 8" is incorrect.
+2022-04-25 09:55:25.326 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8   10" is incorrect.
+2022-04-25 09:55:25.326 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "" is incorrect.
+2022-04-25 09:55:25.326 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "8.11" is incorrect.
+2022-04-25 09:55:25.326 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was read successfully.
+2022-04-25 09:55:25.404 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = четыреста
+2022-04-25 09:55:25.420 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять миллионов шестьсот шестнадцать тысяч пятьсот шестнадцать
+2022-04-25 09:55:25.436 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = один
+2022-04-25 09:55:25.436 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = ноль
+2022-04-25 09:55:25.451 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = минус четыре
+2022-04-25 09:55:25.482 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шестьсот шестнадцать тысяч восемьсот сорок девять вигинтиллионов восемьсот девяносто четыре новемдециллиона девятьсот восемьдесят девять октодециллионов сто девяносто один септендециллион девятьсот восемьдесят один сексдециллион девятьсот шестьдесят один квиндециллион девятьсот восемьдесят девять кваттордециллионов восемьсот девяносто восемь тредециллионов девятьсот пятнадцать дуодециллионов сто девяносто один ундециллион девятьсот девятнадцать дециллионов девятьсот девяносто семь нониллионов двести девятнадцать октиллионов семьсот пятьдесят два септиллиона сто девяносто пять секстиллионов семьсот двадцать четыре квинтиллиона девятьсот пятнадцать квадриллионов семьсот двадцать четыре триллиона девятьсот пятнадцать миллиардов двести семьдесят девять миллионов четыреста пятьдесят одна тысяча девятьсот девяносто девять
+2022-04-25 09:55:25.498 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = девятьсот двенадцать квадриллионов восемьсот тринадцать триллионов семьсот четырнадцать миллиардов шестьсот два миллиона пятьсот три тысячи шестьсот четыре
+2022-04-25 09:55:25.498 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = шесть
+2022-04-25 09:55:25.529 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - пять = пять
