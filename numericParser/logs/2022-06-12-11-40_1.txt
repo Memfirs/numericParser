@@ -1,0 +1,162 @@
+2022-06-11 01:55:07.735 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3 тысяч" is correct.
+2022-06-11 01:55:07.744 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "6 миллион" is correct.
+2022-06-11 01:55:07.745 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9 миллиард" is correct.
+2022-06-11 01:55:07.745 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "12 триллион" is correct.
+2022-06-11 01:55:07.746 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "15 квадриллион" is correct.
+2022-06-11 01:55:07.748 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "18 квинтиллион" is correct.
+2022-06-11 01:55:07.748 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "21 секстиллион" is correct.
+2022-06-11 01:55:07.749 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "24 септиллион" is correct.
+2022-06-11 01:55:07.750 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "27 октиллион" is correct.
+2022-06-11 01:55:07.750 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "30 нониллион" is correct.
+2022-06-11 01:55:07.751 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "33 дециллион" is correct.
+2022-06-11 01:55:07.751 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "36 ундециллион" is correct.
+2022-06-11 01:55:07.752 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "39 дуодециллион" is correct.
+2022-06-11 01:55:07.753 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "42 тредециллион" is correct.
+2022-06-11 01:55:07.754 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "45 кваттордециллион" is correct.
+2022-06-11 01:55:07.755 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "48 квиндециллион" is correct.
+2022-06-11 01:55:07.755 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "51 сексдециллион" is correct.
+2022-06-11 01:55:07.756 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "54 септендециллион" is correct.
+2022-06-11 01:55:07.756 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "57 октодециллион" is correct.
+2022-06-11 01:55:07.757 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "60 новемдециллион" is correct.
+2022-06-11 01:55:07.757 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "63 вигинтиллион" is correct.
+2022-06-11 01:55:07.758 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\littleData.txt" was successfully read.
+2022-06-11 01:55:07.759 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "501" is correct.
+2022-06-11 01:55:07.759 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3" is correct.
+2022-06-11 01:55:07.759 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "90" is correct.
+2022-06-11 01:55:07.761 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - [пятьсот один, три, девяносто] = [пятьсот один, три, девяносто]
+2022-06-11 01:56:06.911 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was successfully read.
+2022-06-11 01:56:06.919 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3 тысяч" is correct.
+2022-06-11 01:56:06.920 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "6 миллион" is correct.
+2022-06-11 01:56:06.920 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9 миллиард" is correct.
+2022-06-11 01:56:06.921 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "12 триллион" is correct.
+2022-06-11 01:56:06.922 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "15 квадриллион" is correct.
+2022-06-11 01:56:06.922 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "18 квинтиллион" is correct.
+2022-06-11 01:56:06.923 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "21 секстиллион" is correct.
+2022-06-11 01:56:06.923 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "24 септиллион" is correct.
+2022-06-11 01:56:06.924 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "27 октиллион" is correct.
+2022-06-11 01:56:06.924 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "30 нониллион" is correct.
+2022-06-11 01:56:06.925 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "33 дециллион" is correct.
+2022-06-11 01:56:06.926 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "36 ундециллион" is correct.
+2022-06-11 01:56:06.926 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "39 дуодециллион" is correct.
+2022-06-11 01:56:06.927 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "42 тредециллион" is correct.
+2022-06-11 01:56:06.927 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "45 кваттордециллион" is correct.
+2022-06-11 01:56:06.928 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "48 квиндециллион" is correct.
+2022-06-11 01:56:06.928 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "51 сексдециллион" is correct.
+2022-06-11 01:56:06.929 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "54 септендециллион" is correct.
+2022-06-11 01:56:06.931 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "57 октодециллион" is correct.
+2022-06-11 01:56:06.931 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "60 новемдециллион" is correct.
+2022-06-11 01:56:06.931 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "63 вигинтиллион" is correct.
+2022-06-11 01:56:06.932 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\littleData.txt" was successfully read.
+2022-06-11 01:56:06.933 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "501" is correct.
+2022-06-11 01:56:06.934 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3" is correct.
+2022-06-11 01:56:06.935 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "90" is correct.
+2022-06-11 01:56:06.957 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - 415632 = четыреста пятнадцать тысяч шестьсот тридцать два
+2022-06-11 01:56:06.963 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was successfully read.
+2022-06-11 01:56:06.964 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3 тысяч" is correct.
+2022-06-11 01:56:06.964 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "6 миллион" is correct.
+2022-06-11 01:56:06.965 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9 миллиард" is correct.
+2022-06-11 01:56:06.966 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "12 триллион" is correct.
+2022-06-11 01:56:06.967 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "15 квадриллион" is correct.
+2022-06-11 01:56:06.967 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "18 квинтиллион" is correct.
+2022-06-11 01:56:06.968 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "21 секстиллион" is correct.
+2022-06-11 01:56:06.968 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "24 септиллион" is correct.
+2022-06-11 01:56:06.969 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "27 октиллион" is correct.
+2022-06-11 01:56:06.969 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "30 нониллион" is correct.
+2022-06-11 01:56:06.970 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "33 дециллион" is correct.
+2022-06-11 01:56:06.971 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "36 ундециллион" is correct.
+2022-06-11 01:56:06.972 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "39 дуодециллион" is correct.
+2022-06-11 01:56:06.973 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "42 тредециллион" is correct.
+2022-06-11 01:56:06.976 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "45 кваттордециллион" is correct.
+2022-06-11 01:56:06.983 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "48 квиндециллион" is correct.
+2022-06-11 01:56:06.986 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "51 сексдециллион" is correct.
+2022-06-11 01:56:06.987 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "54 септендециллион" is correct.
+2022-06-11 01:56:06.987 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "57 октодециллион" is correct.
+2022-06-11 01:56:06.988 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "60 новемдециллион" is correct.
+2022-06-11 01:56:07.001 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "63 вигинтиллион" is correct.
+2022-06-11 01:56:07.002 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\littleData.txt" was successfully read.
+2022-06-11 01:56:07.003 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "501" is correct.
+2022-06-11 01:56:07.004 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3" is correct.
+2022-06-11 01:56:07.005 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "90" is correct.
+2022-06-11 01:56:07.006 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - 12 != четыреста пятнадцать тысяч шестьсот тридцать два
+2022-06-11 01:56:07.011 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was successfully read.
+2022-06-11 01:56:07.013 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3 тысяч" is correct.
+2022-06-11 01:56:07.013 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "6 миллион" is correct.
+2022-06-11 01:56:07.014 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9 миллиард" is correct.
+2022-06-11 01:56:07.016 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "12 триллион" is correct.
+2022-06-11 01:56:07.017 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "15 квадриллион" is correct.
+2022-06-11 01:56:07.018 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "18 квинтиллион" is correct.
+2022-06-11 01:56:07.019 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "21 секстиллион" is correct.
+2022-06-11 01:56:07.022 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "24 септиллион" is correct.
+2022-06-11 01:56:07.024 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "27 октиллион" is correct.
+2022-06-11 01:56:07.032 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "30 нониллион" is correct.
+2022-06-11 01:56:07.035 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "33 дециллион" is correct.
+2022-06-11 01:56:07.037 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "36 ундециллион" is correct.
+2022-06-11 01:56:07.038 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "39 дуодециллион" is correct.
+2022-06-11 01:56:07.038 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "42 тредециллион" is correct.
+2022-06-11 01:56:07.039 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "45 кваттордециллион" is correct.
+2022-06-11 01:56:07.040 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "48 квиндециллион" is correct.
+2022-06-11 01:56:07.041 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "51 сексдециллион" is correct.
+2022-06-11 01:56:07.042 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "54 септендециллион" is correct.
+2022-06-11 01:56:07.042 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "57 октодециллион" is correct.
+2022-06-11 01:56:07.043 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "60 новемдециллион" is correct.
+2022-06-11 01:56:07.043 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "63 вигинтиллион" is correct.
+2022-06-11 01:56:07.045 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\littleData.txt" was successfully read.
+2022-06-11 01:56:07.046 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "501" is correct.
+2022-06-11 01:56:07.049 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3" is correct.
+2022-06-11 01:56:07.050 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "90" is correct.
+2022-06-11 01:56:07.052 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - [пятьсот один, три, девяносто] = [пятьсот один, три, девяносто]
+2022-06-12 11:40:41.146 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was successfully read.
+2022-06-12 11:40:41.157 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3 тысяч" is correct.
+2022-06-12 11:40:41.158 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "6 миллион" is correct.
+2022-06-12 11:40:41.159 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9 миллиард" is correct.
+2022-06-12 11:40:41.160 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "12 триллион" is correct.
+2022-06-12 11:40:41.161 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "15 квадриллион" is correct.
+2022-06-12 11:40:41.161 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "18 квинтиллион" is correct.
+2022-06-12 11:40:41.162 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "21 секстиллион" is correct.
+2022-06-12 11:40:41.162 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "24 септиллион" is correct.
+2022-06-12 11:40:41.163 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "27 октиллион" is correct.
+2022-06-12 11:40:41.163 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "30 нониллион" is correct.
+2022-06-12 11:40:41.163 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "33 дециллион" is correct.
+2022-06-12 11:40:41.164 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "36 ундециллион" is correct.
+2022-06-12 11:40:41.164 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "39 дуодециллион" is correct.
+2022-06-12 11:40:41.165 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "42 тредециллион" is correct.
+2022-06-12 11:40:41.166 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "45 кваттордециллион" is correct.
+2022-06-12 11:40:41.166 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "48 квиндециллион" is correct.
+2022-06-12 11:40:41.167 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "51 сексдециллион" is correct.
+2022-06-12 11:40:41.168 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "54 септендециллион" is correct.
+2022-06-12 11:40:41.169 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "57 октодециллион" is correct.
+2022-06-12 11:40:41.170 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "60 новемдециллион" is correct.
+2022-06-12 11:40:41.170 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "63 вигинтиллион" is correct.
+2022-06-12 11:40:41.179 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\littleData.txt" was successfully read.
+2022-06-12 11:40:41.181 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "501" is correct.
+2022-06-12 11:40:41.181 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3" is correct.
+2022-06-12 11:40:41.182 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "90" is correct.
+2022-06-12 11:40:41.193 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - 415632 = четыреста пятнадцать тысяч шестьсот тридцать два
+2022-06-12 11:40:41.205 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was successfully read.
+2022-06-12 11:40:41.206 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3 тысяч" is correct.
+2022-06-12 11:40:41.208 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "6 миллион" is correct.
+2022-06-12 11:40:41.209 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "9 миллиард" is correct.
+2022-06-12 11:40:41.210 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "12 триллион" is correct.
+2022-06-12 11:40:41.211 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "15 квадриллион" is correct.
+2022-06-12 11:40:41.212 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "18 квинтиллион" is correct.
+2022-06-12 11:40:41.212 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "21 секстиллион" is correct.
+2022-06-12 11:40:41.213 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "24 септиллион" is correct.
+2022-06-12 11:40:41.213 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "27 октиллион" is correct.
+2022-06-12 11:40:41.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "30 нониллион" is correct.
+2022-06-12 11:40:41.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "33 дециллион" is correct.
+2022-06-12 11:40:41.214 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "36 ундециллион" is correct.
+2022-06-12 11:40:41.215 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "39 дуодециллион" is correct.
+2022-06-12 11:40:41.215 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "42 тредециллион" is correct.
+2022-06-12 11:40:41.218 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "45 кваттордециллион" is correct.
+2022-06-12 11:40:41.219 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "48 квиндециллион" is correct.
+2022-06-12 11:40:41.219 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "51 сексдециллион" is correct.
+2022-06-12 11:40:41.220 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "54 септендециллион" is correct.
+2022-06-12 11:40:41.220 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "57 октодециллион" is correct.
+2022-06-12 11:40:41.221 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "60 новемдециллион" is correct.
+2022-06-12 11:40:41.221 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "63 вигинтиллион" is correct.
+2022-06-12 11:40:41.222 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\littleData.txt" was successfully read.
+2022-06-12 11:40:41.223 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "501" is correct.
+2022-06-12 11:40:41.223 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "3" is correct.
+2022-06-12 11:40:41.223 [main] INFO  by.ponomarenko.task.reader.NumericReader - Line "90" is correct.
+2022-06-12 11:40:41.224 [main] INFO  by.test.ponomarenko.task.parser.NumericParserTest - 12 != четыреста пятнадцать тысяч шестьсот тридцать два
+2022-06-12 11:40:41.232 [main] INFO  by.ponomarenko.task.reader.NumericReader - File "resources\data\powerData.txt" was successfully read.

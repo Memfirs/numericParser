@@ -4,7 +4,9 @@ import by.ponomarenko.task.exception.TaskCustomException;
 import by.ponomarenko.task.parser.AbstractNumericParser;
 import by.ponomarenko.task.parser.DefaultNumericParser;
 import by.ponomarenko.task.reader.NumericReader;
+import by.ponomarenko.task.writer.NumericWriter;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
@@ -13,10 +15,14 @@ public class Main {
 
         NumericReader numericReader = new NumericReader();
         AbstractNumericParser numericParser = new DefaultNumericParser();
+        NumericWriter numericWriter = new NumericWriter();
 
-        List<String> textData = numericReader.readFromTxtWithValidation("resources\\data\\textData.txt");
+        List<String> newData = new ArrayList<>();
+        List<String> textData = numericReader.readAllDataFromTxt("resources\\data\\textData.txt", "resources\\data\\powerData.txt");
         for (String line : textData) {
-            System.out.println(numericParser.getNumericValue(line));
+            newData.add(numericParser.getNumericValue(line));
         }
+        numericWriter.writeParserData(newData);
+
     }
 }

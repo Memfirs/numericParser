@@ -23,47 +23,27 @@ public class NumericReader {
 
     private PowerCustomData powerCustomData = new PowerCustomData();
 
-    private final String PATH_POWER_DATA = "resources\\data\\powerData.txt";
+    public List<String> readAllDataFromTxt(String pathFile, String powerPathFile) throws TaskCustomException {
 
-    public List<String> readFromTxt(String fileName) throws TaskCustomException {
+        powerCustomData.setPowerData(readInfo(powerPathFile));
 
-        List<String> dataList;
-
-        try (BufferedReader reader = Files.newBufferedReader(Paths.get(fileName))) {
-            dataList = reader.lines().collect(Collectors.toList());
-        } catch (IOException e) {
-            logger.log(Level.ERROR, "File \"" + fileName + "\" not found or damaged.");
-            throw new TaskCustomException("File \"" + fileName + "\" not found or damaged.");
-        }
-
-        if (dataList.isEmpty()) {
-            logger.log(Level.ERROR, "File \"" + fileName + "\" is empty or contains only invalid data.");
-            throw new TaskCustomException("File \"" + fileName + "\" is empty or contains only invalid data.");
-        }
-
-        logger.log(Level.INFO, "File \"" + fileName + "\" was read successfully.");
-        return dataList;
-    }
-
-    public List<String> readFromTxtWithValidation(String fileName) throws TaskCustomException {
-
+        List<String> dataList = readFromTxt(pathFile);
         List<String> correctLines = new ArrayList<>();
 
-        for (String lineForParsing : readFromTxt(fileName)) {
-            if (!NumericValidator.isValidate(lineForParsing)) {
-                logger.log(Level.INFO, "Line \"" + lineForParsing + "\" is incorrect.");
+        for (String lineForValidation : dataList) {
+            if (!NumericValidator.isValidate(lineForValidation)) {
+                logger.log(Level.INFO, "Line \"" + lineForValidation + "\" is incorrect.");
             } else {
-                logger.log(Level.INFO, "Line \"" + lineForParsing + "\" is correct.");
-                correctLines.add(lineForParsing.trim());
+                logger.log(Level.INFO, "Line \"" + lineForValidation + "\" is correct.");
+                correctLines.add(lineForValidation.trim());
             }
         }
 
         if (correctLines.isEmpty()) {
-            logger.log(Level.ERROR, "No correct lines.");
-            throw new TaskCustomException("No correct lines.");
+            logger.log(Level.ERROR, "File \"" + pathFile + "\" is empty or contains only invalid data.");
+            throw new TaskCustomException("File \"" + pathFile + "\" is empty or contains only invalid data.");
         }
 
-        powerCustomData.setPowerData(readInfo(PATH_POWER_DATA));
         return correctLines;
     }
 
@@ -73,9 +53,38 @@ public class NumericReader {
         List<String> dataList = readFromTxt(pathFile);
 
         for (String line : dataList) {
+
+            if (!NumericValidator.isValidatePower(line)) {
+                logger.log(Level.ERROR, "Line \"" + line + "\" is incorrect.");
+                throw new TaskCustomException("File \"" + pathFile + "\" has invalid data at line \"" + line + "\".");
+            } else {
+                logger.log(Level.INFO, "Line \"" + line+ "\" is correct.");
+            }
+
             String[] tmpLine = line.split(" ");
             map.put(Integer.parseInt(tmpLine[0]), tmpLine[1]);
         }
         return map;
+    }
+
+    private List<String> readFromTxt(String pathFile) throws TaskCustomException {
+
+        List<String> dataList;
+
+        try (BufferedReader reader = Files.newBufferedReader(Paths.get(pathFile))) {
+            dataList = reader.lines().collect(Collectors.toList());
+        } catch (IOException e) {
+            logger.log(Level.ERROR, "File \"" + pathFile + "\" not found or damaged.");
+            throw new TaskCustomException("File \"" + pathFile + "\" not found or damaged.");
+        }
+
+        if (dataList.isEmpty()) {
+            logger.log(Level.ERROR, "File \"" + pathFile + "\" is empty.");
+            throw new TaskCustomException("File \"" + pathFile + "\" is empty.");
+        } else {
+            logger.log(Level.INFO, "File \"" + pathFile + "\" was successfully read.");
+        }
+
+        return dataList;
     }
 }
